@@ -1,0 +1,22 @@
+# Site settings
+title: pbusygin.com
+autor: Pavel Busygin
+email: pbusygin@gmail.com
+description: Просто еще один блог.
+baseurl: ""
+url: "https://pbusygin.com"
+lang: ru
+twitter_username: pbusygin
+github_username:  pbusygin
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
