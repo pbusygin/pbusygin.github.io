@@ -9,12 +9,16 @@ lang: ru
 twitter_username: pbusygin
 github_username:  pbusygin
 remote_theme: "dracula/gh-pages"
+show_downloads: false
+show_header: true
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-
+sass:
+    style: compressed
+    
 # Exclude from processing.
 exclude:
   - Gemfile
