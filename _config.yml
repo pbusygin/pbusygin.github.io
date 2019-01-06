@@ -8,6 +8,7 @@ url: "https://pbusygin.com"
 lang: ru
 twitter_username: pbusygin
 github_username:  pbusygin
+remote_theme: "dracula/gh-pages"
 
 # Build settings
 markdown: kramdown
